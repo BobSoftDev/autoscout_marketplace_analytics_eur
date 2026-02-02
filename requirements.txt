@@ -1,0 +1,14 @@
+# Core data & math
+pandas>=2.1.0
+numpy>=1.26.0
+
+# Visualization
+matplotlib>=3.8.0
+
+# Streamlit executive app
+streamlit>=1.30.0
+
+# Performance & caching
+pyarrow>=14.0.0
+
+# Date & time han
